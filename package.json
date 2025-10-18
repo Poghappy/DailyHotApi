@@ -46,7 +46,7 @@
     "flatted": "^3.3.2",
     "hono": "^4.6.12",
     "iconv-lite": "^0.6.3",
-    "ioredis": "^5.4.1",
+    "ioredis": "^5.8.0",
     "md5": "^2.3.0",
     "node-cache": "^5.1.2",
     "node-fetch": "^3.3.2",
